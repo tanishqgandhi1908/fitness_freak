@@ -15,8 +15,8 @@ This is simple website to motivate people in this diffuicult period to work (out
 TODO: more features to be added
 
 ## Link to Source code
-web -> https://github.com/LOGANATHANAN/DEVSPACE-hackathon
-android -> https://github.com/DhaneshShetty/FitnessFreakApp
+* web -> https://github.com/LOGANATHANAN/DEVSPACE-hackathon
+* android -> https://github.com/DhaneshShetty/FitnessFreakApp
 
  ## Built with
  
