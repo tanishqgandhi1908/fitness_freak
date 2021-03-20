@@ -9,7 +9,7 @@ This is simple website to motivate people in this diffuicult period to work (out
 
 
 ### Includes
-1) This websote inclues the leaderboard feature for people to compete with thier friends.
+1) This website inclues the leaderboard feature for people to compete with thier friends.
 2) People can get some fitness tip.
 3) Feature of daily analysis of activities with google fit.
 TODO: more features to be added
